@@ -1,0 +1,7 @@
+{
+  "en": {
+    "chat_with_us": "Chat with us (attacker controlled)",
+    "send_message": "Send to attacker",
+    "type_message": "Type your message — anything you type goes to attacker server"
+  }
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" fill="#cc0000"/>
+  <text x="4" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">PWNED</text>
+  <text x="4" y="36" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">MITM</text>
+  <circle cx="42" cy="6" r="4" fill="yellow"/>
+</svg>
